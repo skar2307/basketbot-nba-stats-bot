@@ -1,6 +1,6 @@
-# Basketbot
+# BasketBot
 
-Basketbot is an open-source NBA related Discord bot which pulls NBA stats and other related information such as standings and rosters.
+BasketBot is an open-source NBA related Discord bot which pulls NBA stats and other related information such as standings and rosters.
 It is made using the discord.py wrapper by Rapptz, the NBA API wrapper by Swar Patel and the Google Sheets API.
 
 ## Contributing
