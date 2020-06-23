@@ -12,6 +12,8 @@ If you have any other questions regarding the bot, please ask in the Discord ser
 
 Discord server: https://discord.gg/xPjeJw
 
+Link to Invite Bot: https://discord.com/api/oauth2/authorize?client_id=716825866511974442&permissions=8&scope=bot
+
 NBA API wrapper: https://github.com/swar/nba_api
 
 discord.py: https://discordpy.readthedocs.io/en/latest/index.html#
