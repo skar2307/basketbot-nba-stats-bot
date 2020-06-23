@@ -10,6 +10,8 @@ If you have any other questions regarding the bot, please ask in the Discord ser
 
 # Resources
 
+Discord server: https://discord.gg/xPjeJw
+
 NBA API wrapper: https://github.com/swar/nba_api
 
 discord.py: https://discordpy.readthedocs.io/en/latest/index.html#
