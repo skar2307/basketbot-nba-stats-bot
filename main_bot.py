@@ -12,7 +12,7 @@ from cogs.dataretrieval import DataRetrieval
 from cogs.misc import Miscellaneous
 # imports the classes in which all of the commands are stored 
 
-from credentials import token
+from bot_creds import token
 # imports the token to run the bot
 
 bot = commands.Bot(command_prefix = 'gimme ')
